@@ -1,2 +1,2 @@
-# BobHelp
-Dit is de source code van de BobHelp plugin :)
+# BobHelp+
+This is the source code from the BobHelp+ plugin! :D
